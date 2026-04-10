@@ -6,7 +6,7 @@ const firstPart = [
 
 const secondPart = [
   "mus", "gøj", "-tøs", "bamse", "-fis", "mis", "-bøtte", "bean", "monster", "mås", 
-  "bjørn", "klump", "top", "dyr", "kat", "lys", "tosse", "-fyr", "dukke", "bisken", "trold", "sikke", "-futmælk", "-ling", "kage", "-fidus", "-bar", "panda", "-muuh", "fugl", "boble", "blomst", "stjerne", "fisk", "gøjl", "stråle", "my", "-top", "fnug", "sky", "blomst", "fe", "ælling", "hvalp", "tumling", "-smølf", "perle", "pjusk", "drys", "putling", "-puff", "patootie", "brød", "kriger", "butt", "ugle", "tut", "bandit", "snut", "drage", "-kartoffel", "trooper", "fisk", "odder", "man", "drøm"
+  "bjørn", "klump", "top", "dyr", "kat", "lys", "tosse", "-fyr", "dukke", "bisken", "trold", "sikke", "-futmælk", "-ling", "kage", "-fidus", "-bar", "panda", "-muuh", "fugl", "boble", "blomst", "stjerne", "fisk", "gøjl", "stråle", "my", "-top", "fnug", "sky", "blomst", "fe", "ælling", "hvalp", "tumling", "-smølf", "perle", "pjusk", "drys", "putling", "-puff", "-patootie", "brød", "kriger", "butt", "ugle", "tut", "bandit", "snut", "drage", "-kartoffel", "-trooper", "-fisk", "-odder", "man", "drøm"
 ];
 
 // Funktion til at generere et tilfældigt kælenavn
